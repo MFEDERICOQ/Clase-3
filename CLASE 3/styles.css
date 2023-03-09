@@ -2,7 +2,7 @@ body {
     background-color: aqua;
 }
 
-p {
+* {
     font-size: 25px;
     font-family: arial;
 }
